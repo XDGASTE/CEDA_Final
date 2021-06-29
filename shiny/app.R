@@ -1,7 +1,7 @@
 # Load packages ----
 
 # Load data
-source("C:\\Users\\user\\Desktop\\B06607058\\CEDA\\test.r")
+source("test.r")
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(

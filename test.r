@@ -11,8 +11,8 @@ library(pheatmap)
 
 
 # Import data
-data <- read.csv("C:\\Users\\user\\Desktop\\B06607058\\CEDA\\PElection5.csv")
-data2 <- read.csv("C:\\Users\\user\\Desktop\\B06607058\\CEDA\\CountyElection.csv")
+data <- read.csv("PElection5.csv")
+data2 <- read.csv("CountyElection.csv")
 
 # Shapefile data: Taiwan town
 Taiwan_T <- st_read("C:\\Users\\user\\Desktop\\B06607058\\CEDA\\TOWN\\Island.shp")
